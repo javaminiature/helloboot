@@ -1,0 +1,10 @@
+version: '3'
+services:
+  helloboot:
+    build:
+        context: ./
+        dockerfile: Dockerfile
+    image: helloboot
+    ports: 
+      - "8081:8080"
+      
