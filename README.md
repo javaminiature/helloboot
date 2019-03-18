@@ -1,2 +1,2 @@
 # helloboot
-This is a simple hello world program based on spring boot.
+This is a simple hello world REST API based on spring boot.
